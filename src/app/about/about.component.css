@@ -1,0 +1,52 @@
+body {
+}
+#about-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 250px;
+    text-align: center;
+    background-color: rgb(255, 221, 94);
+}
+
+#mission-statement-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+#mission-statement {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#mentors-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+#mentors {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+#mentees-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+#mentees {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
