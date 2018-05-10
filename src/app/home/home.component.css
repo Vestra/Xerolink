@@ -1,13 +1,13 @@
 body {
-    background: rgb(white);
+    background-color: rgb(255, 221, 94);
 }
 .xerolink {
     font-size: 250px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(255, 221, 94);
     color: white;
     text-shadow: 2px 2px 4px #000000;
+    margin: 30px;
 }
 
 .foster {

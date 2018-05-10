@@ -1,5 +1,14 @@
 body {
+    background-color: rgb(255, 221, 94);
+}
+
+.contact-form {
+    font-size: 50px;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin: 30px;
 }
 
 input[type=text], select, textarea {
