@@ -1,13 +1,16 @@
 body {
-    background-color: rgb(255, 221, 94);
 }
 .xerolink {
     font-size: 250px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     text-shadow: 2px 2px 4px #000000;
     margin: 30px;
+    width: 100%;
+    background-color: rgb(255, 221, 94);
+    border-radius: 75px 75px;
+    height: 60%; 
 }
 
 .foster {
@@ -19,5 +22,8 @@ body {
 
 #learn-more {
     text-align: center;
+    font-size: 30px;
+    height: 100%;
     text-decoration: none;
+    color: black;
 }

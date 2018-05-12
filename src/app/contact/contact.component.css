@@ -2,7 +2,7 @@ body {
     background-color: rgb(255, 221, 94);
 }
 
-.contact-form {
+#contact-us {
     font-size: 50px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -35,7 +35,7 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-.container {
+#contact-form {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
